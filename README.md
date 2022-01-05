@@ -1,3 +1,8 @@
+# Run 2 terminal simultaneously
+-First terminal: npm run server to start the server
+-Second terminal: npm start to render front end
+## Click on Home or User to switch route
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
